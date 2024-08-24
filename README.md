@@ -2,37 +2,49 @@
 
 ## Overview
 
-Personal Expenses Tracker is a comprehensive Flutter application designed to help users effectively manage and analyze their personal expenses. The app provides a user-friendly interface for recording expenses, visualizing spending trends, and generating detailed reports. With features like category breakdowns and responsive design, this app is ideal for anyone looking to take control of their finances.
+Personal Expenses Tracker is a comprehensive Flutter application designed to help users manage and analyze their personal expenses efficiently. The app offers a user-friendly interface for recording expenses, visualizing spending trends through interactive charts, and generating detailed reports. Ideal for anyone looking to take control of their finances, the app features category breakdowns and a responsive design suitable for both mobile and tablet devices.
 
 ## Key Features
 
 - **Expense Management**: Seamlessly add, edit, and delete expenses.
-- **Interactive Pie Charts**: Visualize expense distribution across various categories with dynamic pie charts.
-- **Category Filtering**: Easily filter expenses by category to view detailed reports.
+- **Interactive Pie Charts**: Visualize expense distribution across categories with dynamic pie charts.
+- **Category Filtering**: Easily filter expenses by category to generate detailed reports.
 - **Detailed Breakdown**: View detailed expense breakdowns including percentage distribution and dates.
-- **Responsive UI**: Optimized for both mobile and tablet devices for a consistent experience.
+- **Responsive UI**: Optimized for a consistent experience on mobile and tablet devices.
 
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](https://github.com/user-attachments/assets/ba2888bc-078f-4b0b-965e-bbdea0fd4eda)
 *An overview of your recent expenses and total spending.*
 
 ### Expenses Breakdown
-![Expenses Breakdown](screenshots/expenses_breakdown.png)
+![Expenses Breakdown](https://github.com/user-attachments/assets/c9c3efa9-8f08-4c69-bf82-e1f5325e7382)
 *Detailed breakdown of expenses categorized by type.*
 
 ### Pie Chart Visualization
-![Pie Chart Visualization](screenshots/pie_chart.png)
+![Pie Chart Visualization](https://github.com/user-attachments/assets/2944aaa1-99d8-4507-be30-066b96b68078)
 *Visual representation of spending distribution by category.*
 
-## Demo Video
+### Adding New Expense
+![Adding New Expense](https://github.com/user-attachments/assets/3d2c35ca-3e8b-423f-b434-c8fedf227149)
+*Interface for adding a new expense.*
 
+### Data Validation
+![Data Validation](https://github.com/user-attachments/assets/1520ac60-3c17-4a41-8233-6f98a9a622df)
+*Ensuring data integrity.*
+
+### Deleting Expense
+![Deleting Expense](https://github.com/user-attachments/assets/7b0c389b-1e13-4a78-b840-049fe2fa2068)
+*Removing an expense from the list.*
+
+## Demo Video
 Watch the demo video to see the app in action:
 
-[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
-*Explore the app’s features and functionalities through this demonstration.*
+https://github.com/user-attachments/assets/ac077772-394e-4024-ab44-16739d5cc68e
+
+
 
 ## Installation and Setup
 
@@ -40,7 +52,7 @@ To get started with Personal Expenses Tracker, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/personal_expenses.git
+   git clone https://github.com/mohany203/personal_expenses.git
    ```
 
 2. **Navigate to the Project Directory**:
@@ -78,7 +90,7 @@ For major changes, please open an issue first to discuss your ideas with the mai
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
 
 ## Contact
 

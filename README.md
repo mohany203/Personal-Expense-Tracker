@@ -29,8 +29,8 @@ This project was completed as part of an internship task at Codsoft.
 ![Adding and Deleting Expenses](https://github.com/user-attachments/assets/8ba7cc60-da51-45ce-9885-2616a32a8aa9)
 
 ## Demo Video
-*Watch the demo video to see the app in action:*
-![Demo Video](https://github.com/user-attachments/assets/74fe0937-24f4-409d-b93a-98dde661f230)
+
+![*Click here to watch the demo video to see the app in action*](https://github.com/user-attachments/assets/74fe0937-24f4-409d-b93a-98dde661f230)
 
 
 ## Installation and Setup

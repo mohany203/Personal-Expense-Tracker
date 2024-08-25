@@ -30,7 +30,7 @@ This project was completed as part of an internship task at Codsoft.
 
 ## Demo Video
 *Watch the demo video to see the app in action:*
-https://github.com/user-attachments/assets/ac077772-394e-4024-ab44-16739d5cc68e
+https://github.com/user-attachments/assets/e1c8f0a2-0ae4-423a-a6b4-cf07b3453a22
 
 ## Installation and Setup
 

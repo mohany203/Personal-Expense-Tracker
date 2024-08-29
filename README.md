@@ -4,8 +4,6 @@
 
 Personal Expenses Tracker is a comprehensive Flutter application designed to help users manage and analyze their personal expenses efficiently. The app offers a user-friendly interface for recording expenses, visualizing spending trends through interactive charts, and generating detailed reports. Ideal for anyone looking to take control of their finances, the app features category breakdowns and a responsive design suitable for both mobile and tablet devices. 
 
-This project was completed as part of an internship task at Codsoft.
-
 ## Key Features
 
 - **Expense Management**: Seamlessly add, edit, and delete expenses.
@@ -39,7 +37,7 @@ To get started with Personal Expenses Tracker, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/mohany203/CodSoft-Personal-Expense-Tracker
+   git clone https://github.com/mohany203/Personal-Expense-Tracker
    ```
 
 2. **Navigate to the Project Directory**:
